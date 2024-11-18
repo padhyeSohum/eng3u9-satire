@@ -35,11 +35,6 @@ export default function Home() {
                         <Paragraph content={`You see, this increase in competition for jobs is actually perfect for Canada! It’ll encourage students to do better in school and discover their passions more quickly. And… well… if they can’t find a job… then it’s just natural selection, right? Yeah. It’s never Trudeau’s fault, only ours. Because Trudeau is never, ever wrong.`} />
                         <Paragraph header={`You know who to thank`} content={`So, I think I can speak for all of us when I say that Trudeau has shown us how to become real survivalists. Through his masterful planning, attention to detail, and consideration of all perspectives, he has really come up with the best plan to bring our economy back. So the next time you’re ever having doubts and feeling like being a whiny baby--”The food’s too expensive!” “I can’t buy a house!” “I can’t find any jobs!” “My urgent heart surgery is taking years to get through the healthcare system!”--just remember that it’s now your responsibility to figure it out, courtesy of the one and only Justin Trudeau.`} />
                     </div>
-                    <div className="my-12 w-full bg-[#EEEEEE] py-4 flex justify-center shadow-[0_0_10px_0_rgba(0,0,0,0.3)]">
-                        <div className="w-4/5">
-                            {`Implicit thesis: The Liberal Party’s post-pandemic immigration policies left Canadians ill-equipped to deal with rising populations, as they put immigration policies into play yet didn’t match them accordingly with initiatives to support the subsequent population growth.`} 
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
