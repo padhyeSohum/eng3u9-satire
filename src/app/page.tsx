@@ -19,7 +19,7 @@ export default function Home() {
                     <img src="/trudeau-speaking.png" className="mb-12" />
                     <div className="mb-4">
                         <h1 className="text-4xl font-semibold mb-6 text-center">Trudeau: The Ultimate Survivalist?</h1>
-                        <p className="text-xl text-pretty text-center">How Trudeau's plan saved and will continue to save Canada's economy</p>
+                        <p className="text-xl text-pretty text-center">{`How Trudeau's plan saved and will continue to save Canada's economy`}</p>
                     </div>
                     <div>
                         <Paragraph content={`Canada had a world-class immigration plan for the past 150 years that helped strengthen our economy, reunite families, and help refugees. About 275,000 immigrants per year were admitted from 2000 to 2021. However, post-pandemic Canadians experienced severe unemployment, inflation, and mental health issues as we tried to recover our economy. To address this challenge, the Trudeau government decided to almost double immigration targets to half a million per year. And it seemed to be going pretty well! Thumbs up! That is, until recently where we're now observing that it’s actually going great! Double thumbs up!"`}/>
